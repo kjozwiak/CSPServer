@@ -1,0 +1,25 @@
+{
+  "name": "CSPServer",
+  "version": "0.0.1",
+  "description": "Basic CSP Server used for QAing CSP issues",
+  "main": "server.js",
+  "dependencies": {
+    "blankie": "^1.1.1",
+    "hapi": "^12.1.0",
+    "inert": "^3.2.0",
+    "scooter": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjozwiak/CSPServer.git"
+  },
+  "author": "Kamil Jozwiak <kamiljoz@gmail.com> (http://www.kamiljozwiak.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjozwiak/CSPServer/issues/" 
+  },
+  "homepage": "https://github.com/kjozwiak/CSPServer/blob/master/README.md",
+  "standard": {
+    "ignore": []
+  }
+}
