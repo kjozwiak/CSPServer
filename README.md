@@ -10,8 +10,10 @@ Created this basic CSP Server that I use for QAing CSP issues in Firefox..
 
 ## Configuration
 
-CSP directives that are available under blankie can found [HERE](https://github.com/nlf/blankie#options).
+- CSP directives that are available under blankie can found [HERE](https://github.com/nlf/blankie#options).
+- I didn't add my own CSP report parser, used https://report-uri.io instead... make sure you change the `reportUri` directive to point to either your own parser or your own account under https://report-uri.io (accounts are free!)
 
 ## Running
 
-In the command terminal, run `node server.js` inside the CSPServer directory you pulled earlier
+- In the command terminal, run `node server.js` inside the CSPServer directory you pulled earlier
+- In the browser, visit `http://localhost:22935`
