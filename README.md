@@ -6,7 +6,7 @@ Created this basic CSP Server that I use for QAing CSP issues in Firefox..
 ## Setup
 
 - Pull code via `git clone https://github.com/kjozwiak/CSPServer.git`
-- Install dependencies via `npm install`
+- Install dependencies via `npm install` (Optional: set `npm set progress=false` for improved npm install speed)
 
 ## Configuration
 
