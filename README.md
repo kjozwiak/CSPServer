@@ -1,6 +1,8 @@
 # CSPServer
 CSP Server /w Node + Hapi + Scooter + Blankie
 
+- Using [Standard](https://www.npmjs.com/package/standard) for JS Coding Style
+
 Created this basic CSP Server that I use for QAing CSP issues in Firefox..
 
 ## Setup
